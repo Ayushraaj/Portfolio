@@ -50,9 +50,9 @@ When not in the front of a computer, can be found reading books or dancing.
         <h3 className='subhead-text'>Work Experience.</h3>
         <div className='mt-5 flex flex-col gap-3 text-slate-500'>
           <p>
-          While I may not have formal work experience in the industry, I am a quick learner with a deep technical knowledge in coding. My academic journey has equipped me with a solid foundation in programming languages, and I continually seek opportunities to enhance my skills.
+           While I may not have formal work experience in the industry, I am a quick learner with a deep technical knowledge in coding. My academic journey has provided me with a solid foundation in programming languages, and I am continuously seeking opportunities to enhance my skills.
 
-In addition to my academic pursuits, I am also the founder of a coding initiative called "TheCode - Let's Fly Again." This project reflects my commitment to fostering a collaborative learning environment and contributing to the coding community. Through this venture, I have gained valuable insights into industry trends and best practices.
+In addition to my academic pursuits, I have completed numerous projects, demonstrating my commitment to fostering a collaborative learning environment and contributing to the coding community. Through these projects, I have gained valuable insights into industry trends and best practices.
 
 One of my strengths lies in my familiarity with clean code architecture. I understand the importance of writing efficient, maintainable, and scalable code, and I consistently apply these principles in my projects. This knowledge, coupled with my enthusiasm for staying updated on the latest industry developments, positions me as a candidate who can quickly adapt to the dynamic landscape of the tech industry.
 
