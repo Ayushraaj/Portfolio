@@ -113,7 +113,7 @@ export const experiences = [
     {
         title: "Research Paper 1",
         company_name: "Quantum Annealing",
-        icon: q,
+        // icon: "",
         iconBg: "#accbe1",
         date: "January 2023 - June 2024",
         points: [
@@ -126,7 +126,7 @@ export const experiences = [
     {
         title: "Research Paper 2",
         company_name: "Optimizing Algorithms for Car Racing Time Laps",
-        icon: l,
+        // icon: l,
         iconBg: "#fbc3bc",
         date: "Jan 2024 - July 2025",
         points: [
@@ -139,7 +139,7 @@ export const experiences = [
     {
         title: "Research Paper 3",
         company_name: "QKDN in underwater networks, Quantum Cryptography",
-        icon: cry,
+        // icon: cry,
         iconBg: "#b7e4c7",
         date: "Present",
         points: [
