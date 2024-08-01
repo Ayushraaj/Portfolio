@@ -116,12 +116,13 @@ export const experiences = [
         icon: q,
         iconBg: "#accbe1",
         date: "January 2023 - June 2024",
-        points: [
-            "Comparison Results: Quantum Annealing outperforms PCA in dimensionality reduction for predictive models yielding lower Mean Squared Error  and higher R-squared values."
-            "Performance Insight: Quantum Annealing superior ability to identify data patterns enhances model performance.",
-            "Optimization Potential: Fine-tuning parameters and optimizing Quantum Annealing algorithms can further improve efficiency.",
-            "Future Research: Comparing Quantum Annealing with other methods Autoencoders t-SNE UMAP and exploring scalability will enhance understanding and applications",
-        ],
+        [
+    "Comparison Results: Quantum Annealing outperforms PCA in dimensionality reduction for predictive models, yielding lower Mean Squared Error and higher R-squared values.",
+    "Performance Insight: Quantum Annealing's superior ability to identify data patterns enhances model performance.",
+    "Optimization Potential: Fine-tuning parameters and optimizing Quantum Annealing algorithms can further improve efficiency.",
+    "Future Research: Comparing Quantum Annealing with other methods (Autoencoders, t-SNE, UMAP) and exploring scalability will enhance understanding and applications."
+],
+
     },
     {
         title: "Research Paper 2",
