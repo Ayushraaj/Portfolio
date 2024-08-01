@@ -111,65 +111,58 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "React.js Developer",
-        company_name: "Starbucks",
+        title: "Research Paper 1",
+        company_name: "Quantum Annealing",
         icon: starbucks,
         iconBg: "#accbe1",
-        date: "March 2020 - April 2021",
+        date: "January 2023 - June 2024",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Comparison Results: Quantum Annealing outperforms PCA in dimensionality reduction for predictive models, yielding lower Mean Squared Error (MSE) and higher R-squared (R2) values."
+            "Performance Insight: Quantum Annealing's superior ability to identify data patterns enhances model performance.",
+            "Optimization Potential: Fine-tuning parameters and optimizing Quantum Annealing algorithms can further improve efficiency.",
+            "Future Research: Comparing Quantum Annealing with other methods (Autoencoders, t-SNE, UMAP) and exploring scalability will enhance understanding and applications",
         ],
     },
     {
-        title: "React Native Developer",
-        company_name: "Tesla",
+        title: "Research Paper 2",
+        company_name: "Optimizing Algorithms for Car Racing Time Laps",
         icon: tesla,
         iconBg: "#fbc3bc",
-        date: "Jan 2021 - Feb 2022",
+        date: "Jan 2024 - July 2025",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Advancements in AI and RL: Over the past decade, AI advancements, particularly in reinforcement learning (RL), have made training RL agents for custom 2D games more accessible due to improved algorithms and hardware.",
+            "A2C Model Performance: The A2C model in this study achieved the desired performance in just 1.75 million timesteps, highlighting the efficiency of modern RL methods compared to traditional finite state machines in game development",
+            "Benefits of RL in Game Development: RL agents can adapt and respond to dynamic player interactions, providing a more flexible and responsive gameplay experience, thus revolutionizing game development by making it more efficient and adaptive.",
+            "Future Research Directions: Future work could focus on hyperparameter tuning, extended training runs, and developing custom algorithms to optimize ray perception sensor distances for vehicle navigation.",
         ],
     },
     {
-        title: "Web Developer",
-        company_name: "Shopify",
+        title: "Research Paper 3",
+        company_name: "QKDN in underwater networks, Quantum Cryptography",
         icon: shopify,
         iconBg: "#b7e4c7",
-        date: "Jan 2022 - Jan 2023",
+        date: "Present",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Still Working on it.....  :("
         ],
     },
-    {
-        title: "Full stack Developer",
-        company_name: "Meta",
-        icon: meta,
-        iconBg: "#a2d2ff",
-        date: "Jan 2023 - Present",
-        points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
-        ],
-    },
+    // {
+    //     title: "Full stack Developer",
+    //     company_name: "Meta",
+    //     icon: meta,
+    //     iconBg: "#a2d2ff",
+    //     date: "Jan 2023 - Present",
+    //     points: [
+    //         "Developing and maintaining web applications using React.js and other related technologies.",
+    //         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+    //         "Implementing responsive design and ensuring cross-browser compatibility.",
+    //         "Participating in code reviews and providing constructive feedback to other developers.",
+    //     ],
+    // },
 ];
 
 export const socialLinks = [
-    {
-        name: 'Contact',
-        iconUrl: contact,
-        link: '/contact',
-    },
+    
     {
         name: 'GitHub',
         iconUrl: github,
