@@ -120,7 +120,7 @@ export const experiences = [
             "Comparison Results: Quantum Annealing outperforms PCA in dimensionality reduction for predictive models, yielding lower Mean Squared Error (MSE) and higher R-squared (R2) values."
             "Performance Insight: Quantum Annealing superior ability to identify data patterns enhances model performance.",
             "Optimization Potential: Fine-tuning parameters and optimizing Quantum Annealing algorithms can further improve efficiency.",
-            "Future Research: Comparing Quantum Annealing with other methods (Autoencoders, t-SNE, UMAP) and exploring scalability will enhance understanding and applications",
+            "Future Research: Comparing Quantum Annealing with other methods Autoencoders, t-SNE, UMAP and exploring scalability will enhance understanding and applications",
         ],
     },
     {
@@ -130,7 +130,7 @@ export const experiences = [
         iconBg: "#fbc3bc",
         date: "Jan 2024 - July 2025",
         points: [
-            "Advancements in AI and RL: Over the past decade, AI advancements, particularly in reinforcement learning (RL), have made training RL agents for custom 2D games more accessible due to improved algorithms and hardware.",
+            "Advancements in AI and RL: Over the past decade, AI advancements, particularly in reinforcement learning , have made training RL agents for custom 2D games more accessible due to improved algorithms and hardware.",
             "A2C Model Performance: The A2C model in this study achieved the desired performance in just 1.75 million timesteps, highlighting the efficiency of modern RL methods compared to traditional finite state machines in game development",
             "Benefits of RL in Game Development: RL agents can adapt and respond to dynamic player interactions, providing a more flexible and responsive gameplay experience, thus revolutionizing game development by making it more efficient and adaptive.",
             "Future Research Directions: Future work could focus on hyperparameter tuning, extended training runs, and developing custom algorithms to optimize ray perception sensor distances for vehicle navigation.",
