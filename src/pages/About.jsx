@@ -49,15 +49,10 @@ When not in the front of a computer, can be found reading books or dancing.
       <div className='py-16'>
         <h3 className='subhead-text'>Work Experience.</h3>
         <div className='mt-5 flex flex-col gap-3 text-slate-500'>
-          <p>
-           While I may not have formal work experience in the industry, I am a quick learner with a deep technical knowledge in coding. My academic journey has provided me with a solid foundation in programming languages, and I am continuously seeking opportunities to enhance my skills.
+          <p> During my time working remotely with Outlier, I gained invaluable experience collaborating with cross-functional teams in a fast-paced, dynamic environment. At Outlier, I was tasked with solving complex problems, writing efficient code, and ensuring that all deliverables met high standards of quality. The remote setup allowed me to hone my communication skills and work independently while contributing effectively to team projects.
+This experience not only strengthened my coding abilities but also enhanced my problem-solving approach, adaptability, and ability to learn quickly. I had the opportunity to work on real-world applications, which provided a deeper understanding of how to translate theoretical knowledge into practical solutions. The collaborative and supportive environment at Outlier allowed me to grow professionally and expand my technical expertise in a meaningful way.
 
-In addition to my academic pursuits, I have completed numerous projects, demonstrating my commitment to fostering a collaborative learning environment and contributing to the coding community. Through these projects, I have gained valuable insights into industry trends and best practices.
-
-One of my strengths lies in my familiarity with clean code architecture. I understand the importance of writing efficient, maintainable, and scalable code, and I consistently apply these principles in my projects. This knowledge, coupled with my enthusiasm for staying updated on the latest industry developments, positions me as a candidate who can quickly adapt to the dynamic landscape of the tech industry.
-
-I am reaching out to express my keen interest in potential opportunities within your company. I am confident that my combination of theoretical knowledge, practical coding skills, and industry awareness makes me a valuable asset to any team. I am eager to contribute my skills and learn from experienced professionals in a professional setting.
-          </p>
+</p>
         </div>
 
         <div className='mt-12 flex'>
